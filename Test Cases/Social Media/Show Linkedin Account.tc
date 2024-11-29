@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Show Linkedin Account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b9c4108-84df-449a-b962-7a1d65d1bdf2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Learn more</name>
+   <tag></tag>
+   <elementGuidId>081e4c5b-7fd3-41c1-a286-3cd237cf834c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.MuiButton-outlinedDark.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButton-colorDark.MuiButton-disableElevation.MuiButton-root.MuiButton-outlined.MuiButton-outlinedDark.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButton-colorDark.MuiButton-disableElevation.css-1q08dmx</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>08e91586-9145-4960-899b-b88ed5d90385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedDark MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorDark MuiButton-disableElevation MuiButton-root MuiButton-outlined MuiButton-outlinedDark MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorDark MuiButton-disableElevation css-1q08dmx</value>
+      <webElementGuid>8391be16-197b-4abb-9e93-f20c3b780191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3f72bc1e-f0d8-4777-a1f2-9af681c20748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b5e82b93-4c27-49cc-94f9-5f2936c5c435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learn more</value>
+      <webElementGuid>a9af150e-3989-46a0-a0af-0faa4bc38af3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-1fv62hk&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg css-yhjlg1&quot;]/div[@class=&quot;MuiStack-root css-cp6wtk&quot;]/a[1]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedDark MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorDark MuiButton-disableElevation MuiButton-root MuiButton-outlined MuiButton-outlinedDark MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorDark MuiButton-disableElevation css-1q08dmx&quot;]</value>
+      <webElementGuid>8a965afc-9223-4471-913e-1708ef272bf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>942f2518-8f05-447c-8676-912bc247e405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[6]/div/div[3]/a/button</value>
+      <webElementGuid>4e31175a-5884-4a44-8b06-99ef66fdafff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Visual'])[1]/following::button[1]</value>
+      <webElementGuid>ecd85be6-53d5-47e7-9f98-e4bd9f46c117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Error Reporting'])[1]/following::button[1]</value>
+      <webElementGuid>92e6b57b-f540-4ec6-8f13-dcf86d7b2daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Studies'])[1]/preceding::button[1]</value>
+      <webElementGuid>18428bd4-a971-4c28-bfb8-700f8092b3ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why our customers love Sauce Labs'])[1]/preceding::button[1]</value>
+      <webElementGuid>3da396ce-a470-409c-a75d-b773b17950c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Learn more']/parent::*</value>
+      <webElementGuid>3a8aa031-d200-4029-990e-6dec4fe54880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/button</value>
+      <webElementGuid>6f4b2984-3317-400a-8098-d1ec70fbd7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Learn more' or . = 'Learn more')]</value>
+      <webElementGuid>57f7ca7a-d39a-41b7-8a3b-6c2250962cbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

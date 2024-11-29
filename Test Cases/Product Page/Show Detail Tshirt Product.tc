@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Show Detail Tshirt Product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a9b3b6f8-aa98-44cc-858d-06c1f74dd8df</testCaseGuid>
+</TestCaseEntity>

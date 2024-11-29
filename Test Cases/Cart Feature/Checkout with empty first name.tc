@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkout with empty first name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b7556ac-5eb4-41f5-b412-6948f7063fa9</testCaseGuid>
+</TestCaseEntity>

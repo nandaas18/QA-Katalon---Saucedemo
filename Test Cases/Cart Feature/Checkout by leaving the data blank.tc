@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkout by leaving the data blank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38c401d0-e692-4953-966b-1188d1fcb69e</testCaseGuid>
+</TestCaseEntity>

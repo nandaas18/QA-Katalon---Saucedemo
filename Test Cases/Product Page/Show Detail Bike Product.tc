@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Show Detail Bike Product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48a9748d-810f-494f-be8e-158c33f3314b</testCaseGuid>
+</TestCaseEntity>

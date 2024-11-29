@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_29.99Add to cart</name>
+   <tag></tag>
+   <elementGuidId>7ec4358d-034c-49a5-aaf9-17609f2d3548</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pricebar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inventory_container']/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a3210edb-9118-4218-821d-387b75f5cd40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pricebar</value>
+      <webElementGuid>bffb79c4-8f2a-4198-858a-27623e6227f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$29.99Add to cart</value>
+      <webElementGuid>d4b8ab87-e092-4b35-a1cb-8bf7dfed6537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contents_wrapper&quot;)/div[@id=&quot;inventory_container&quot;]/div[1]/div[@id=&quot;inventory_container&quot;]/div[@class=&quot;inventory_list&quot;]/div[@class=&quot;inventory_item&quot;]/div[@class=&quot;inventory_item_description&quot;]/div[@class=&quot;pricebar&quot;]</value>
+      <webElementGuid>b58f8009-ab7e-4ea3-8870-b625e37b08ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inventory_container']/div/div/div[2]/div[2]</value>
+      <webElementGuid>7ba4af1a-4f98-4e4a-99dc-6de31dd2f83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Backpack'])[1]/following::div[2]</value>
+      <webElementGuid>41c7bc1e-4e05-4727-a401-1f04e5227876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name (A to Z)'])[1]/following::div[11]</value>
+      <webElementGuid>528bb23b-a04e-4f18-b544-88a762fcac83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>2bec73fe-7cd9-40bb-bea5-622eb043eb72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '$29.99Add to cart' or . = '$29.99Add to cart')]</value>
+      <webElementGuid>a2888ab9-c314-49db-8c1c-63816277be79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

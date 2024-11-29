@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sauce Labs Fleece Jacket</name>
+   <tag></tag>
+   <elementGuidId>4942dd7b-867f-41a0-a57a-1d3c232595da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#item_5_title_link > div.inventory_item_name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='item_5_title_link']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d24d258-72b3-4c68-b35a-d1f76d6e1ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inventory_item_name </value>
+      <webElementGuid>19986c7d-6db6-4c74-86f2-532fb56b4390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>inventory-item-name</value>
+      <webElementGuid>6c94ec00-cd22-494c-92a1-0f18237e16ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sauce Labs Fleece Jacket</value>
+      <webElementGuid>aa8fba9e-b3c0-4528-8ba1-8fd22c0b5acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item_5_title_link&quot;)/div[@class=&quot;inventory_item_name&quot;]</value>
+      <webElementGuid>5b91f3f1-3cd0-426f-b4db-b1eeddf1d895</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='item_5_title_link']/div</value>
+      <webElementGuid>645d41c5-d0aa-4f99-b08d-c9756f186ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[3]/following::div[5]</value>
+      <webElementGuid>09fac58f-21b7-439b-9850-dc04cc8db0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$15.99'])[1]/following::div[5]</value>
+      <webElementGuid>6ccf6570-06fd-4c2e-b548-a1d18e763597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$49.99'])[1]/preceding::div[2]</value>
+      <webElementGuid>5cffb942-8268-414d-b79c-660dc611d883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[4]/preceding::div[3]</value>
+      <webElementGuid>757953c4-b3fc-4f35-b45c-8cb6832afc7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sauce Labs Fleece Jacket']/parent::*</value>
+      <webElementGuid>eb39c2c2-a679-4ce7-8805-7091d258e559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/a/div</value>
+      <webElementGuid>baed3cac-3e06-4476-9fe0-083847cd3e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sauce Labs Fleece Jacket' or . = 'Sauce Labs Fleece Jacket')]</value>
+      <webElementGuid>98294620-9871-4901-8990-8ec7ec633c29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

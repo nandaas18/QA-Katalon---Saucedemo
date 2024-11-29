@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Name (A to Z)Name (Z to A)Price (low_f7e90a</name>
+   <tag></tag>
+   <elementGuidId>2ebc4005-4870-4630-b435-b97e1c3264d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.product_sort_container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header_container']/div[2]/div/span/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d36c4fb0-0e8a-44ae-af54-b908a355643c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product_sort_container</value>
+      <webElementGuid>03e48632-0967-4630-9c92-c074000626d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>product-sort-container</value>
+      <webElementGuid>9db79349-3709-4523-bd04-2bcc70e996ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)</value>
+      <webElementGuid>c1b1030d-b457-4c85-8643-eb3ba8fb78a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header_container&quot;)/div[@class=&quot;header_secondary_container&quot;]/div[@class=&quot;right_component&quot;]/span[@class=&quot;select_container&quot;]/select[@class=&quot;product_sort_container&quot;]</value>
+      <webElementGuid>3d266059-eab9-44b9-a3d9-0ac1e5d9ff18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header_container']/div[2]/div/span/select</value>
+      <webElementGuid>b5e5cbe0-a1b0-4baf-b824-60dcf608da70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name (A to Z)'])[1]/following::select[1]</value>
+      <webElementGuid>51e3ae42-1abd-4c5a-a54c-1807cc13c976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/following::select[1]</value>
+      <webElementGuid>a9711385-a476-47da-ba5c-5900e88460d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Backpack'])[1]/preceding::select[1]</value>
+      <webElementGuid>547024ea-c4ae-44c1-81cb-91cc8f3540cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$29.99'])[1]/preceding::select[1]</value>
+      <webElementGuid>f21624b2-05af-40b7-801b-4badd0dd7957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>311c7edf-5151-4ca7-b625-92d958e65dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)' or . = 'Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)')]</value>
+      <webElementGuid>69a160a5-6ccf-4d5b-82a2-9ba4684c084e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

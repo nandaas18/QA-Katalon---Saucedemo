@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Name (A to Z)Name (A to Z)Name (Z to A_3f2346</name>
+   <tag></tag>
+   <elementGuidId>6965a074-8201-4917-b69b-032570fb22cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select_container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header_container']/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3deee9ea-d657-47f9-8568-7a090acc05d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select_container</value>
+      <webElementGuid>38394b30-4343-47bd-94b1-e78e9cceb161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name (A to Z)Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)</value>
+      <webElementGuid>bb40e05e-b5cd-4300-b760-73167bf9d91e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header_container&quot;)/div[@class=&quot;header_secondary_container&quot;]/div[@class=&quot;right_component&quot;]/span[@class=&quot;select_container&quot;]</value>
+      <webElementGuid>2d84beaf-0f68-4c5e-95e2-b99e8b43fa1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header_container']/div[2]/div/span</value>
+      <webElementGuid>0297a173-8f76-49d6-9c55-8804b2918a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/following::span[1]</value>
+      <webElementGuid>51f957a9-2417-42f2-ba63-1b524f9c4735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::span[2]</value>
+      <webElementGuid>5bd238f3-bde1-4c23-8c26-00c43ca108d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Backpack'])[1]/preceding::span[2]</value>
+      <webElementGuid>6d4f965f-8ecb-4718-acf0-d5da89dbd6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>7a5814d7-301e-40fb-9e03-f28ce010db14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Name (A to Z)Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)' or . = 'Name (A to Z)Name (A to Z)Name (Z to A)Price (low to high)Price (high to low)')]</value>
+      <webElementGuid>73d313ef-131a-48ad-aa5d-487dd5ecb391</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

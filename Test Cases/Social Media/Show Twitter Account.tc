@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Show Twitter Account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ed86e7d-1391-47ea-a893-2f2445dcac46</testCaseGuid>
+</TestCaseEntity>
